@@ -15,7 +15,7 @@ gcc TW_Homework_Hilree.c
 ```
 此后会打印在console上，显示相对应的输出。
 ![ubuntu中编译][1]
-###2.基于win中的IDE编译
+### 2.基于win中的IDE编译
 若在win中的IDE编译，则需要在代码的第一行加上
 ```cmd
 #include "stdafx.h"
