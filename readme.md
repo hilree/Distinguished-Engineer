@@ -63,3 +63,9 @@ superPlane 181 158 -420 1 1 1
 ----
 
 
+
+  [1]: http://120.79.152.109/Make.gif
+  [2]: http://120.79.152.109/Input.gif
+  [3]: http://120.79.152.109/Alpha.gif
+  [4]: http://120.79.152.109/Beta.gif
+  [5]: http://120.79.152.109/Name.gif
