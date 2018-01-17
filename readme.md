@@ -2,9 +2,9 @@
                                  
 ----
 
-##文件编译环境及运行
+## 文件编译环境及运行
 
-###1.基于ubuntu中的gcc编译
+### 1.基于ubuntu中的gcc编译
 此文件编译基于ubuntu中gcc编译器编译，在命令行中直接输入：
 ```cmd
 gcc TW_Homework_Hilree.c
@@ -29,7 +29,7 @@ TW_Homework_Hilree.exe xxx.txt ID
 ![error输入参数][2]
 
 ----
-##测试样例
+## 测试样例
 针对多种情况，我准备了三种样例：
 ###样例1:test_Alpha.txt
 ```test_Alpha.txt
@@ -40,7 +40,7 @@ Alphaplane 3 4 5
 Alphaplane 1 1 1 1 2 3
 ```
 ![样例1][3]
-###样例2:test_Beta.txt
+### 样例2:test_Beta.txt
 ```test_Alpha.txt
 Betaplane 1 1 1
 Betaplane 1 1 1 2 3 4
@@ -50,7 +50,7 @@ Betaplane -33 -44 -55 1 1 1
 Betaplane -32 -43 -54 1 1 1
 ```
 ![样例2][4]
-###样例3:test_Name.txt
+### 样例3:test_Name.txt
 ```test_Alpha.txt
 superPlane 1 1 1
 superPlane 1 1 1 2 3 4
