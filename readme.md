@@ -25,13 +25,13 @@ gcc TW_Homework_Hilree.c
 TW_Homework_Hilree.exe xxx.txt ID
 ```
 ----
-##针对输入参数稍不正确情况
+## 针对输入参数稍不正确情况
 ![error输入参数][2]
 
 ----
 ## 测试样例
 针对多种情况，我准备了三种样例：
-###样例1:test_Alpha.txt
+### 样例1:test_Alpha.txt
 ```test_Alpha.txt
 Alphaplane 1 1 1
 Alphaplane 1 1 1 1 2 3
